@@ -17,7 +17,7 @@ at home.  I also have a more modern ASUS 1215B netbook that I use mainly
 for gaming, and a Raspberry Pi (connected to a cheap 23" LED TV) for
 some odd hacks.
 
-![1391472 SSK](https://fbcdn-sphotos-e-a.akamaihd.net/hphotos-ak-ash4/394951_10151430738221913_1473357507_n.jpg)
+![1391472 SSK](https://fbcdn-sphotos-e-a.akamaihd.net/hphotos-ak-ash4/p480x480/394951_10151430738221913_1473357507_n.jpg)
 
 I'm also a fan of old IBM Model M keyboards: my first one is the classic
 1391401 from April 1987, which is my main keyboard at home.  Later, at
