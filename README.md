@@ -9,7 +9,7 @@ busy updating myself.
 
 ## What hardware do you use?
 
-![ThinkPad X61](https://fbcdn-sphotos-e-a.akamaihd.net/hphotos-ak-ash4/292342_10151078567291913_321433754_n.jpg)
+![ThinkPad X61 and X200](https://fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-ash3/p480x480/994785_10151740022516913_1235470299_n.jpg)
 
 I'm a fan of ThinkPads: my current workhorses are an X200 and an X61
 (both second-hand units,) and there are a few dead T61s I have collected
