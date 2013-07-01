@@ -13,7 +13,8 @@ busy updating myself.
 
 I'm a fan of [ThinkPads](http://en.wikipedia.org/wiki/ThinkPad): my
 current workhorses are an X200 and an X61 (both second-hand units,) and
-there are a few dead T61s I have collected at home.  I also have a more
+there are a few dead T61s I have collected at home (my new work will
+also hopefully let me have a new ThinkPad to use.)  I also have a more
 modern ASUS 1215B netbook that I use mainly for gaming, and a Raspberry
 Pi (connected to a cheap 23" LED TV) for some odd hacks.
 
@@ -23,9 +24,11 @@ I'm also a fan of old IBM
 [Model M keyboards](http://en.wikipedia.org/wiki/Model_M_Keyboard): my
 first one is the classic 1391401 from April 1987, which is my main
 keyboard at home.  Later, at the start of 2013, I got a 1391472
-Space-Saving Keyboard from Jun 1987 which I bring to work.  Now, I'm
-also waiting for my 13H6705 Model M13 Keyboard (the black Model M with a
-Trackpoint, born 1998) to arrive very soon; all of them from eBay.
+Space-Saving Keyboard from Jun 1987 which I bring to work.  I also just
+received my Feb 1998 13H6705 Model M13 Keyboard (the only black Model M
+with a TrackPoint pointing stick) which I plan to be my work keyboard,
+keeping the SSK as a mobile replacement; all of them are bought from
+eBay.
 
 For mobile devices, I'm pretty conservative: I just have an HTC Desire
 with a custom ROM, with little to plan on changing to a new phone.
