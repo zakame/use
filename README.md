@@ -32,8 +32,8 @@ replacement; all of them are bought from eBay.
 ![Battlestation at $WORK](https://fbcdn-sphotos-f-a.akamaihd.net/hphotos-ak-ash4/p480x480/382546_10151780228121913_1887261885_n.jpg)
 
 At my new work, I am assigned a ThinkPad T420 with HD+ screen and a 128G
-SSD, and a ViewSonic monitor to go with it.  I've brought my 13H6705 to
-use as my main keyboard.  So far, so good :-)
+SSD, and a ViewSonic monitor to go with it.  I've brought my M13 to use
+as my main keyboard.  So far, so good :-)
 
 For mobile devices, I'm pretty conservative: I just have an HTC Desire
 with a custom ROM, with little to plan on changing to a new phone.
