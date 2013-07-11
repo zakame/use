@@ -2,10 +2,10 @@
 
 ## Who are you, and what do you do?
 
-I'm Zak B. Elep, aka zakame.  I'm primarily a sysadmin, but I think I'll
-be switching places in a little while.  I'm also a journeyman Perl
-hacker, with a few o{l,o}d bits committed in the CPAN that I should be
-busy updating myself.
+I'm Zak B. Elep, aka zakame.  I'm primarily a sysadmin, but recently
+I've switched places to get into web development, being a journeyman
+Perl hacker with a few o{l,o}d bits committed in the CPAN that I should
+be busy updating myself.
 
 ## What hardware do you use?
 
@@ -20,15 +20,20 @@ Pi (connected to a cheap 23" LED TV) for some odd hacks.
 
 ![1391472 SSK](https://fbcdn-sphotos-e-a.akamaihd.net/hphotos-ak-ash4/p480x480/394951_10151430738221913_1473357507_n.jpg)
 
-I'm also a fan of old IBM
-[Model M keyboards](http://en.wikipedia.org/wiki/Model_M_Keyboard): my
-first one is the classic 1391401 from April 1987, which is my main
-keyboard at home.  Later, at the start of 2013, I got a 1391472
-Space-Saving Keyboard from Jun 1987 which I bring to work.  I also just
-received my Feb 1998 13H6705 Model M13 Keyboard (the only black Model M
-with a TrackPoint pointing stick) which I plan to be my work keyboard,
-keeping the SSK as a mobile replacement; all of them are bought from
-eBay.
+I'm also a fan of old IBM [Model M
+keyboards](http://en.wikipedia.org/wiki/Model_M_Keyboard): my first one
+is the classic 1391401 from April 1987, which is my main keyboard at
+home.  Later, at the start of 2013, I got a 1391472 Space-Saving
+Keyboard from Jun 1987 which I bring to work.  I also just received my
+Feb 1998 13H6705 Model M13 Keyboard (the only black Model M with a
+TrackPoint pointing stick) to use for work, keeping the SSK as a mobile
+replacement; all of them are bought from eBay.
+
+![Battlestation at $WORK](https://fbcdn-sphotos-f-a.akamaihd.net/hphotos-ak-ash4/p480x480/382546_10151780228121913_1887261885_n.jpg)
+
+At my new work, I am assigned a ThinkPad T420 with HD+ screen and a 128G
+SSD, and a ViewSonic monitor to go with it.  I've brought my 13H6705 to
+use as my main keyboard.  So far, so good :-)
 
 For mobile devices, I'm pretty conservative: I just have an HTC Desire
 with a custom ROM, with little to plan on changing to a new phone.
