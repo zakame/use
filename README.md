@@ -2,10 +2,10 @@
 
 ## Who are you, and what do you do?
 
-I'm Zak B. Elep, aka zakame.  I'm primarily a sysadmin, but recently
-I've switched places to get into web development, being a journeyman
-Perl hacker with a few o{l,o}d bits committed in the CPAN that I should
-be busy updating myself.
+I'm Zak B. Elep, aka [zakame](http://zakame.net).  I'm primarily a
+sysadmin, but recently I've switched places to get into web development,
+being a journeyman Perl hacker with a few o{l,o}d bits committed in the
+CPAN that I should be busy updating myself.
 
 ## What hardware do you use?
 
@@ -55,17 +55,21 @@ on Rome: Total War and Company of Heroes.)
 
 For editing, I prefer [Emacs](http://www.gnu.org/s/emacs); I also use
 that for reading Usenet, via Gnus.  I'm currently getting by with
-Org-Mode, and I feel I'll refine my Emacs setup very soon to get the
-best results.  When on remote machines though, I use either plain vi or
-nano, whichever is available.
+Org-Mode (though I feel I still need to learn more about it,) and to
+support Perl programming I use my own fork of 叶文彬's
+[Emacs::PDE](https://github.com/zakame/emacs-pde).  When on remote
+machines though, I use either plain vi or nano, whichever is available.
 
 Being a Perl programmer, I tend to have a local copy of the CPAN on my
-machines, thanks to the wonder that is CPAN::Mini, and a local build of
-various Perl versions, made possible with perlbrew.  Slackware (which I
-also mirror locally, because it is just big enough ;) provides the rest
-of the development toolchain, especially in -current, where the latest
-versions of gcc, git, and various libraries are already available and
-just plain work.
+machines, thanks to the wonder that is Ricardo SIGNES'
+[CPAN::Mini](http://metacpan.org/module/CPAN::Mini), a local build of
+various Perl versions, made possible with 劉康民's
+[perlbrew](http://perlbrew.pl), and Tatsuhiko Miyagawa's
+[Carton](http://metacpan.org/module/Carton) to manage modules in
+deployment environments.  Slackware (which I also mirror locally,
+because it is just big enough ;) provides the rest of the development
+toolchain, especially in -current, where the latest versions of gcc,
+git, and various libraries are already available and just plain work.
 
 ## What would be your dream setup?
 
