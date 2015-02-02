@@ -2,10 +2,12 @@
 
 ## Who are you, and what do you do?
 
-I'm Zak B. Elep, aka [zakame](http://zakame.net).  I'm primarily a
-sysadmin, but recently I've switched places to get into web development,
-being a journeyman Perl hacker with a few o{l,o}d bits committed in the
-CPAN that I should be busy updating myself.
+I'm Zak B. Elep, aka [zakame](http://zakame.net).  I'm a recovering
+sysadmin, having switched places to do web development (and more
+recently, herding cats.) I like to think that I'm a journeyman Perl
+hacker with a few o{l,o}d bits committed in the CPAN that I should be
+busy updating myself, but thankfully because they're open source, a few
+folks elsewhere are helping out on that end...
 
 ## What hardware do you use?
 
@@ -31,16 +33,16 @@ replacement; all of them are bought from eBay.
 
 ![Battlestation at $WORK](http://i.imgur.com/Z2cewfX.jpg)
 
-At my new work, I am assigned a ThinkPad T420 with HD+ screen and a 128G
+At my work, I am assigned a ThinkPad T420 with HD+ screen and a 128G
 SSD, and a ViewSonic monitor to go with it.  I've brought my M13 to use
 as my main keyboard.  So far, so good :-)
 
-For mobile devices, I'm pretty conservative: I just have an HTC Desire
-with a custom ROM, with little to plan on changing to a new phone.
-Aside from calling the folks and keeping in touch with my significant
-other, I primarily use it as a mobile hotspot; this is also my main
-factor when upgrading later, as I'd want to get a cheap phone with all
-the functionality I'm using now, plus LTE connectivity.
+![Nexus 7 2013](http://i.imgur.com/yvSGhFV.jpg)
+
+For mobile devices, I now have a Nexus 5 and a Nexus 7 2013, along with
+my old HTC Desire as a standby (still carrying my main number.)  I also
+have an LTE mobile hotspot that I switch connections with the Nexus 5
+weekly to ensure fast connectivity almost all the time.
 
 ## And what software?
 
@@ -77,6 +79,7 @@ Part of my dream setup is already real (classic ThinkPads + clicky
 keyboards + a Linux that just works.)  Can't hurt to want some minor
 updates though, like maybe 64+ core CPU and a cool (temperature-wise)
 discrete graphics multicores on a larger-resolution ThinkPad.)  In the
-near future, I'll probably get an SSD or two to replace the HDDS on my
-machines for a quick boost, though I'm waiting on both SSD materials
-technology and Linux support to get better.
+near future, I'll probably get extra RAM for the work machine (mainly
+for more Docker containers,) and maybe an SSD or two to replace the HDDS
+on my machines for a quick boost, though I'm waiting on both SSD
+materials technology and Linux support to get better.
