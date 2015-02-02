@@ -9,7 +9,7 @@ CPAN that I should be busy updating myself.
 
 ## What hardware do you use?
 
-![ThinkPad X61 and X200](https://fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-ash3/p480x480/994785_10151740022516913_1235470299_n.jpg)
+![ThinkPad X61 and X200](http://i.imgur.com/TBVniai.jpg)
 
 I'm a fan of [ThinkPads](http://en.wikipedia.org/wiki/ThinkPad): my
 current workhorses are an X200 and an X61 (both second-hand units,) and
@@ -18,7 +18,7 @@ also hopefully let me have a new ThinkPad to use.)  I also have a more
 modern ASUS 1215B netbook that I use mainly for gaming, and a Raspberry
 Pi (connected to a cheap 23" LED TV) for some odd hacks.
 
-![1391472 SSK](https://fbcdn-sphotos-e-a.akamaihd.net/hphotos-ak-ash4/p480x480/394951_10151430738221913_1473357507_n.jpg)
+![1391472 SSK](http://i.imgur.com/BFOZkb4.jpg)
 
 I'm also a fan of old IBM [Model M
 keyboards](http://en.wikipedia.org/wiki/Model_M_Keyboard): my first one
@@ -29,7 +29,7 @@ Feb 1998 13H6705 Model M13 Keyboard (the only black Model M with a
 TrackPoint pointing stick) to use for work, keeping the SSK as a mobile
 replacement; all of them are bought from eBay.
 
-![Battlestation at $WORK](https://fbcdn-sphotos-f-a.akamaihd.net/hphotos-ak-ash4/p480x480/382546_10151780228121913_1887261885_n.jpg)
+![Battlestation at $WORK](http://i.imgur.com/Z2cewfX.jpg)
 
 At my new work, I am assigned a ThinkPad T420 with HD+ screen and a 128G
 SSD, and a ViewSonic monitor to go with it.  I've brought my M13 to use
