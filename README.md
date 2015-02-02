@@ -15,27 +15,29 @@ folks elsewhere are helping out on that end...
 
 I'm a fan of [ThinkPads](http://en.wikipedia.org/wiki/ThinkPad): my
 current workhorses are an X200 and an X61 (both second-hand units,) and
-there are a few dead T61s I have collected at home (my new work will
-also hopefully let me have a new ThinkPad to use.)  I also have a more
-modern ASUS 1215B netbook that I use mainly for gaming, and a Raspberry
-Pi (connected to a cheap 23" LED TV) for some odd hacks.
+there are a few dead T61s I have collected at home.  I also have T420
+for use @$WORK (more on that below,) and also used to have an ASUS 1215B
+netbook (previously for gaming on the go, but now given to my folks for
+their own computing needs.)  There's also that Raspberry Pi connected to
+a cheap 23" LED TV for some odd hacks in between.
 
 ![1391472 SSK](http://i.imgur.com/BFOZkb4.jpg)
 
-I'm also a fan of old IBM [Model M
-keyboards](http://en.wikipedia.org/wiki/Model_M_Keyboard): my first one
-is the classic 1391401 from April 1987, which is my main keyboard at
-home.  Later, at the start of 2013, I got a 1391472 Space-Saving
-Keyboard from Jun 1987 which I bring to work.  I also just received my
-Feb 1998 13H6705 Model M13 Keyboard (the only black Model M with a
-TrackPoint pointing stick) to use for work, keeping the SSK as a mobile
-replacement; all of them are bought from eBay.
+I'm also a fan of old IBM
+[Model M keyboards](http://en.wikipedia.org/wiki/Model_M_Keyboard): my
+first one is the classic 1391401 from April 1987, which is my main
+keyboard at home.  Later, at the start of 2013, I got a 1391472
+Space-Saving Keyboard from Jun 1987 which I bring to work.  I also have
+a 13H6705 Model M13 Keyboard (from Feb 1998, the only black Model M with
+a TrackPoint pointing stick) to use for work, keeping the SSK as a
+mobile replacement; all of them are bought from eBay.
 
 ![Battlestation at $WORK](http://i.imgur.com/Z2cewfX.jpg)
 
 At my work, I am assigned a ThinkPad T420 with HD+ screen and a 128G
 SSD, and a ViewSonic monitor to go with it.  I've brought my M13 to use
-as my main keyboard.  So far, so good :-)
+as my main keyboard, with the SSK swapping in whenever I want or prefer
+to use a mouse instead of the TrackPoint.  So far, so good :-)
 
 ![Nexus 7 2013](http://i.imgur.com/yvSGhFV.jpg)
 
@@ -46,14 +48,13 @@ weekly to ensure fast connectivity almost all the time.
 
 ## And what software?
 
-I mainly run Linux, in particular
-[Slackware](http://www.slackware.com); all my machines run either the
-latest stable (Slackware64-14.0) or the development
-(Slackware64-current) update.  Early on I've been using Debian and
-Ubuntu, but has since then moved to Slackware as I found it to be just
-right for me.  I still run Windows though for some games I play (I've
-been going back to my Steam archive recently and marching virtual armies
-on Rome: Total War and Company of Heroes.)
+I mainly run Linux, in particular [Slackware](http://www.slackware.com);
+all my machines run either the latest stable (Slackware64-14.0) or the
+development (Slackware64-current) update.  Early on I've been using
+Debian and Ubuntu, but has since then moved to Slackware as I found it
+to be just right for me.  I still run Windows though for some games I
+play (I've been going back to my Steam archive and marching virtual
+armies on Rome: Total War and Company of Heroes.)
 
 For editing, I prefer [Emacs](http://www.gnu.org/s/emacs); I also use
 that for reading Usenet, via Gnus.  I'm currently getting by with
