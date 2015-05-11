@@ -11,7 +11,7 @@ folks elsewhere are helping out on that end...
 
 ## What hardware do you use?
 
-![ThinkPad X61 and X200](http://i.imgur.com/TBVniai.jpg)
+![ThinkPad X61 and X200](http://i.imgur.com/TBVniai.jpg =468x)
 
 I'm a fan of [ThinkPads](http://en.wikipedia.org/wiki/ThinkPad): my
 current workhorses are an X200 and an X61 (both second-hand units,) and
@@ -21,7 +21,7 @@ netbook (previously for gaming on the go, but now given to my folks for
 their own computing needs.)  There's also that Raspberry Pi connected to
 a cheap 23" LED TV for some odd hacks in between.
 
-![1391472 SSK](http://i.imgur.com/BFOZkb4.jpg)
+![1391472 SSK](http://i.imgur.com/BFOZkb4.jpg =468x)
 
 I'm also a fan of old IBM
 [Model M keyboards](http://en.wikipedia.org/wiki/Model_M_Keyboard): my
@@ -32,14 +32,14 @@ a 13H6705 Model M13 Keyboard (from Feb 1998, the only black Model M with
 a TrackPoint pointing stick) to use for work, keeping the SSK as a
 mobile replacement; all of them are bought from eBay.
 
-![Battlestation at $WORK](http://i.imgur.com/Z2cewfX.jpg)
+![Battlestation at $WORK](http://i.imgur.com/Z2cewfX.jpg =468x)
 
 At my work, I am assigned a ThinkPad T420 with HD+ screen and a 128G
 SSD, and a ViewSonic monitor to go with it.  I've brought my M13 to use
 as my main keyboard, with the SSK swapping in whenever I want or prefer
 to use a mouse instead of the TrackPoint.  So far, so good :-)
 
-![Nexus 7 2013](http://i.imgur.com/yvSGhFV.jpg)
+![Nexus 7 2013](http://i.imgur.com/yvSGhFV.jpg =468x)
 
 For mobile devices, I now have a Nexus 5 and a Nexus 7 2013, along with
 my old HTC Desire as a standby (still carrying my main number.)  I also
