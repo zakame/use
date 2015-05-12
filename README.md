@@ -11,15 +11,16 @@ folks elsewhere are helping out on that end...
 
 ## What hardware do you use?
 
-<img src="http://i.imgur.com/TBVniai.jpg" alt="ThinkPad X61 and X200" style="width: 640px;" />
+<img src="http://i.imgur.com/KL6udyy.jpg" alt="ThinkPad X220" style="width: 640px;" />
 
 I'm a fan of [ThinkPads](http://en.wikipedia.org/wiki/ThinkPad): my
-current workhorses are an X200 and an X61 (both second-hand units,) and
-there are a few dead T61s I have collected at home.  I also have T420
-for use @$WORK (more on that below,) and also used to have an ASUS 1215B
-netbook (previously for gaming on the go, but now given to my folks for
-their own computing needs.)  There's also that Raspberry Pi connected to
-a cheap 23" LED TV for some odd hacks in between.
+current workhorse is an X220, and previously were X200 and X61, all
+second-hand units, as well as a few dead T61s I have collected at home.
+I also have T420 for use @$WORK (more on that below,) and also used to
+have an ASUS 1215B netbook (previously for gaming on the go, but now
+given to my folks for their own computing needs.)  There's also that
+Raspberry Pi connected to a cheap 23" LED TV for some odd hacks in
+between.
 
 <img src="http://i.imgur.com/BFOZkb4.jpg" alt="1391472 SSK" style="width: 640px;" />
 
@@ -35,9 +36,9 @@ mobile replacement; all of them are bought from eBay.
 <img src="http://i.imgur.com/Z2cewfX.jpg" alt="Battlestation at $WORK" style="width: 640px;" />
 
 At my work, I am assigned a ThinkPad T420 with HD+ screen and a 128G
-SSD, and a ViewSonic monitor to go with it.  I've brought my M13 to use
-as my main keyboard, with the SSK swapping in whenever I want or prefer
-to use a mouse instead of the TrackPoint.  So far, so good :-)
+SSD, and a ViewSonic monitor to go with it.  I've brought my SSK to use
+as my main keyboard, with the M13 swapping in occasionally.  So far, so
+good :-)
 
 <img src="http://i.imgur.com/yvSGhFV.jpg" alt="Nexus 7 2013" style="width: 640px;" />
 
