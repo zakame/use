@@ -57,7 +57,8 @@ to be just right for me.  I still run Windows though for some games I
 play (I've been going back to my Steam archive and marching virtual
 armies on Rome: Total War and Company of Heroes.)
 
-For editing, I prefer [Emacs](http://www.gnu.org/s/emacs); I also use
+For editing, I prefer [Emacs](http://www.gnu.org/s/emacs); I've put my
+[.emacs.d](https://github.com/zakame/.emacs.d) up on GitHub.  I also use
 that for reading Usenet, via Gnus.  I'm currently getting by with
 Org-Mode (though I feel I still need to learn more about it,) and to
 support Perl programming I use my own fork of 叶文彬's
