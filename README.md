@@ -49,6 +49,8 @@ weekly to ensure fast connectivity almost all the time.
 
 ## And what software?
 
+<img src="http://i.imgur.com/oRnnuFG.png" alt="Zakame's Desktop" style="width: 640px;" />
+
 I mainly run Linux, in particular [Slackware](http://www.slackware.com);
 all my machines run either the latest stable (Slackware64-14.0) or the
 development (Slackware64-current) update.  Early on I've been using
